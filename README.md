@@ -49,7 +49,7 @@ You need to install the following tools and configure their dependencies:
     
     ```bash
     git clone https://github.com/Richi025/bst.git
-    cd PropertyManagement
+    cd bst
     ```
 
 2. Build the project:
