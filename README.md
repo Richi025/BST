@@ -66,7 +66,7 @@ You need to install the following tools and configure their dependencies:
 3. Run the application:
     
     ```bash
-    java -jar target/BST-0.0.1-SNAPSHOT.jar
+    java -jar target/bst-0.0.1-SNAPSHOT.jar
     ```
 
     ![4. Access the API at: `https://localhost:8443/login.html`](images/image.png)
