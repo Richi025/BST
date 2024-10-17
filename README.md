@@ -48,7 +48,7 @@ You need to install the following tools and configure their dependencies:
 1. Clone the repository and navigate into the project directory:
     
     ```bash
-    git clone https://github.com/Richi025/BST.git
+    git clone https://github.com/Richi025/bst.git
     cd PropertyManagement
     ```
 
